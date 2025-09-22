@@ -1,4 +1,4 @@
-# g🏘️ Sistem Informasi Manajemen RT Berbasis Web
+# Sistem Informasi Manajemen RT Berbasis Web
 
 Proyek ini dibuat sebagai bagian dari **Skripsi** untuk menyelesaikan program studi **Teknik Informatika** di Universitas Pelita Bangsa.  
 Aplikasi web ini bertujuan untuk membantu pengurus RT dalam mengelola administrasi, keuangan, dan informasi bagi warga secara lebih efisien dan transparan.
